@@ -1,0 +1,9 @@
+version: 0.0
+Resources:
+  - AwsLambdaTest:
+      Type: AWS::Lambda::Function
+      Properties:
+        Name: "AwsLambdaTest"
+        Alias: "AwsLambdaTestAlias"
+        CurrentVersion: "1"
+        TargetVersion: "1"
