@@ -18,3 +18,4 @@ artifacts:
   files:
     - target/aws-test-0.0.1.jar
     - appspec.yml
+  discard-paths: yes
