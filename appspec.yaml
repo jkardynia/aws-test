@@ -1,4 +1,4 @@
-# This is an appspec.yml template file for use with an AWS Lambda deployment in CodeDeploy.
+# This is an appspec.yaml template file for use with an AWS Lambda deployment in CodeDeploy.
 # For help completing this file, see the "AppSpec File Reference" in the
 #   "CodeDeploy User Guide" at
 #   https://docs.aws.amazon.com/codedeploy/latest/userguide/app-spec-ref.html
